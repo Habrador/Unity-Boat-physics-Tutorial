@@ -93,6 +93,12 @@ public class GenerateExtraBoatMeshes
     //intersectionVertices are in global pos
     public void GenerateFoamSkirt(Mesh mesh, string name, List<Vector3> intersectionVertices)
     {
+        //Cant generate a foam skirt if the boat is not in the water
+        if (intersectionVertices.Count <= 2)
+        {
+            return;
+        }
+    
         //Step 1. Clean the vertices that are close together
         List<Vector3> cleanedVertices = CleanVertices(intersectionVertices);
 

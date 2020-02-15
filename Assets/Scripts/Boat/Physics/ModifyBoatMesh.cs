@@ -97,6 +97,7 @@ public class ModifyBoatMesh
         //Make sure we find the distance to water with the same time
         timeSinceStart = Time.time;
 
+        //Debug.Log(boatVertices.Length);
 
         //Find all the distances to water once because some triangles share vertices, so reuse
         for (int j = 0; j < boatVertices.Length; j++)
