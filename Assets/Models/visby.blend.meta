@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 16b15c8e8643315409fd8dcddec5295f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BezierCurve
+    100002: Bounding_Box
+    100004: Cannon
+    100006: Hull
+    100008: Hull_Collider
+    100010: Radar_Cone
+    100012: //RootNode
+    100014: Circle
+    100016: Circle_001
+    100018: Front_targeting_radar
+    100020: Bounding Box
+    100022: Circle.001
+    100024: Front targeting radar
+    100026: Hull Collider
+    100028: Radar Cone
+    400000: BezierCurve
+    400002: Bounding_Box
+    400004: Cannon
+    400006: Hull
+    400008: Hull_Collider
+    400010: Radar_Cone
+    400012: //RootNode
+    400014: Circle
+    400016: Circle_001
+    400018: Front_targeting_radar
+    400020: Bounding Box
+    400022: Circle.001
+    400024: Front targeting radar
+    400026: Hull Collider
+    400028: Radar Cone
+    2300000: BezierCurve
+    2300002: Bounding_Box
+    2300004: Cannon
+    2300006: Hull
+    2300008: Hull_Collider
+    2300010: Radar_Cone
+    2300012: Circle
+    2300014: Circle_001
+    2300016: Front_targeting_radar
+    2300018: Bounding Box
+    2300020: Circle.001
+    2300022: Front targeting radar
+    2300024: Hull Collider
+    2300026: Radar Cone
+    3300000: BezierCurve
+    3300002: Bounding_Box
+    3300004: Cannon
+    3300006: Hull
+    3300008: Hull_Collider
+    3300010: Radar_Cone
+    3300012: Circle
+    3300014: Circle_001
+    3300016: Front_targeting_radar
+    3300018: Bounding Box
+    3300020: Circle.001
+    3300022: Front targeting radar
+    3300024: Hull Collider
+    3300026: Radar Cone
+    4300000: Hull_Collider
+    4300002: Radar_Cone
+    4300004: Cannon
+    4300006: BezierCurve
+    4300008: Hull
+    4300010: Bounding_Box
+    4300012: Circle_001
+    4300014: Circle
+    4300016: Front_targeting_radar
+    4300018: Circle.001
+    4300020: Front targeting radar
+    4300022: Hull Collider
+    4300024: Radar Cone
+    4300026: Bounding Box
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
