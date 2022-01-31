@@ -1,6 +1,9 @@
 # Unity Boat physics Tutorial
 
-Learn how to make a realistic boat in Unity:
+Learn how to make a realistic boat in Unity with the physics equations used by actual boats. The main inspiration comes from this article:
+
+* [Water interaction model for boats in video games](https://www.gamedeveloper.com/programming/water-interaction-model-for-boats-in-video-games)
+
 
 YouTube video showing the result:
 
